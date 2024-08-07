@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dboperationefcore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a860ba98d65b827d98546118a8d3bfa8eb66b67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dboperationefcore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dboperationefcore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

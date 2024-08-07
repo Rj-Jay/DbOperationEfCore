@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\jay\\Code\\Src\\DbOperationEfCore\\Dboperationefcore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6AA260-48B9-477D-8B3F-0DE31B6B6CA3}|Dboperationefcore\\Dboperationefcore.csproj|d:\\jay\\code\\src\\dboperationefcore\\dboperationefcore\\dboperationefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6AA260-48B9-477D-8B3F-0DE31B6B6CA3}|Dboperationefcore\\Dboperationefcore.csproj|solutionrelative:dboperationefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6AA260-48B9-477D-8B3F-0DE31B6B6CA3}|Dboperationefcore\\Dboperationefcore.csproj|d:\\jay\\code\\src\\dboperationefcore\\dboperationefcore\\dboperationefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB6AA260-48B9-477D-8B3F-0DE31B6B6CA3}|Dboperationefcore\\Dboperationefcore.csproj|solutionrelative:dboperationefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6AA260-48B9-477D-8B3F-0DE31B6B6CA3}|Dboperationefcore\\Dboperationefcore.csproj|d:\\jay\\code\\src\\dboperationefcore\\dboperationefcore\\dboperationefcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6AA260-48B9-477D-8B3F-0DE31B6B6CA3}|Dboperationefcore\\Dboperationefcore.csproj|solutionrelative:dboperationefcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6AA260-48B9-477D-8B3F-0DE31B6B6CA3}|Dboperationefcore\\Dboperationefcore.csproj|d:\\jay\\code\\src\\dboperationefcore\\dboperationefcore\\dboperationefcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB6AA260-48B9-477D-8B3F-0DE31B6B6CA3}|Dboperationefcore\\Dboperationefcore.csproj|solutionrelative:dboperationefcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\jay\\Code\\Src\\DbOperationEfCore\\Dboperationefcore\\Dboperationefcore\\Program.cs",
+              "RelativeDocumentMoniker": "Dboperationefcore\\Program.cs",
+              "ToolTip": "D:\\jay\\Code\\Src\\DbOperationEfCore\\Dboperationefcore\\Dboperationefcore\\Program.cs",
+              "RelativeToolTip": "Dboperationefcore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:00:06.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\jay\\Code\\Src\\DbOperationEfCore\\Dboperationefcore\\Dboperationefcore\\appsettings.json",
+              "RelativeDocumentMoniker": "Dboperationefcore\\appsettings.json",
+              "ToolTip": "D:\\jay\\Code\\Src\\DbOperationEfCore\\Dboperationefcore\\Dboperationefcore\\appsettings.json",
+              "RelativeToolTip": "Dboperationefcore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T09:56:43.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\jay\\Code\\Src\\DbOperationEfCore\\Dboperationefcore\\Dboperationefcore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Dboperationefcore\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\jay\\Code\\Src\\DbOperationEfCore\\Dboperationefcore\\Dboperationefcore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Dboperationefcore\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:47:06.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\jay\\Code\\Src\\DbOperationEfCore\\Dboperationefcore\\Dboperationefcore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Dboperationefcore\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\jay\\Code\\Src\\DbOperationEfCore\\Dboperationefcore\\Dboperationefcore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Dboperationefcore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T07:57:35.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
