@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Dboperationefcore/Dboperationefcore/obj/Debug/net8.0/Dboperationefcore.AssemblyInfoInputs.cache
+/Dboperationefcore/Dboperationefcore/obj/Debug/net8.0/Dboperationefcore.assets.cache
+/Dboperationefcore/Dboperationefcore/obj/Debug/net8.0/Dboperationefcore.csproj.AssemblyReference.cache
+/Dboperationefcore/Dboperationefcore/obj/Debug/net8.0/Dboperationefcore.GeneratedMSBuildEditorConfig.editorconfig
+/Dboperationefcore/Dboperationefcore/obj/Dboperationefcore.csproj.nuget.dgspec.json
+/Dboperationefcore/Dboperationefcore/obj/Dboperationefcore.csproj.nuget.g.props
+/Dboperationefcore/Dboperationefcore/obj/Dboperationefcore.csproj.nuget.g.targets
+/Dboperationefcore/Dboperationefcore/obj/project.assets.json
+/Dboperationefcore/Dboperationefcore/obj/project.nuget.cache
+/Dboperationefcore/.vs/Dboperationefcore/FileContentIndex/5b8864b6-1aa4-4425-b300-75a3950d849a.vsidx
